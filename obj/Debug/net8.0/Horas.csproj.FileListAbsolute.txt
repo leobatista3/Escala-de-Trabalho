@@ -1,0 +1,14 @@
+C:\Users\leoma\OneDrive\Desktop\Horas\bin\Debug\net8.0\Horas.exe
+C:\Users\leoma\OneDrive\Desktop\Horas\bin\Debug\net8.0\Horas.deps.json
+C:\Users\leoma\OneDrive\Desktop\Horas\bin\Debug\net8.0\Horas.runtimeconfig.json
+C:\Users\leoma\OneDrive\Desktop\Horas\bin\Debug\net8.0\Horas.dll
+C:\Users\leoma\OneDrive\Desktop\Horas\bin\Debug\net8.0\Horas.pdb
+C:\Users\leoma\OneDrive\Desktop\Horas\obj\Debug\net8.0\Horas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoma\OneDrive\Desktop\Horas\obj\Debug\net8.0\Horas.AssemblyInfoInputs.cache
+C:\Users\leoma\OneDrive\Desktop\Horas\obj\Debug\net8.0\Horas.AssemblyInfo.cs
+C:\Users\leoma\OneDrive\Desktop\Horas\obj\Debug\net8.0\Horas.csproj.CoreCompileInputs.cache
+C:\Users\leoma\OneDrive\Desktop\Horas\obj\Debug\net8.0\Horas.dll
+C:\Users\leoma\OneDrive\Desktop\Horas\obj\Debug\net8.0\refint\Horas.dll
+C:\Users\leoma\OneDrive\Desktop\Horas\obj\Debug\net8.0\Horas.pdb
+C:\Users\leoma\OneDrive\Desktop\Horas\obj\Debug\net8.0\Horas.genruntimeconfig.cache
+C:\Users\leoma\OneDrive\Desktop\Horas\obj\Debug\net8.0\ref\Horas.dll

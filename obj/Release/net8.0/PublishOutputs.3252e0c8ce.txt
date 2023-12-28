@@ -1,0 +1,5 @@
+C:\Users\leoma\OneDrive\Desktop\Horas\bin\Release\net8.0\publish\Horas.exe
+C:\Users\leoma\OneDrive\Desktop\Horas\bin\Release\net8.0\publish\Horas.dll
+C:\Users\leoma\OneDrive\Desktop\Horas\bin\Release\net8.0\publish\Horas.deps.json
+C:\Users\leoma\OneDrive\Desktop\Horas\bin\Release\net8.0\publish\Horas.runtimeconfig.json
+C:\Users\leoma\OneDrive\Desktop\Horas\bin\Release\net8.0\publish\Horas.pdb
